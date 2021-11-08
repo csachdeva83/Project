@@ -30,7 +30,7 @@ h1{
 }
 
 .one{
-    background-image: url("tindog.jpg");
+    background-image: url("tindog.png");
     background-size: 100% 50vh;
 }
 
@@ -40,7 +40,7 @@ h1{
 }
 
 .three{
-    background-image: url("Drum Kit.jpg");
+    background-image: url("Drum\ Kit.png");
     background-size: 100% 50vh;
 }
 
